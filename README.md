@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshara-vootkuri&label=Profile%20views&color=0e75b6&style=flat" alt="akshara-vootkuri" /> </p>
 
+- 👨‍💻 All of my projects are available at (https://aksharav-portfolio.netlify.app/) 
 - 🔭 I’m currently working on **Doctor appointment booking system**
 
 - 🌱 I’m currently learning **frameworks for frontend like react**
 
-- 👨‍💻 All of my projects are available at (https://aksharav-portfolio.netlify.app/) 
 
 - 📫 How to reach me **aksharavootkuri25@gmail.com**
 
