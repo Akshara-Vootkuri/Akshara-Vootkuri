@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **frameworks for frontend like react**
 
-All of my projects are available at (https://aksharav-portfolio.netlify.app/) 
+- 👨‍💻 All of my projects are available at (https://aksharav-portfolio.netlify.app/) 
 
 - 📫 How to reach me **aksharavootkuri25@gmail.com**
 
