@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akshara-vootkuri-58a189271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshara-vootkuri-58a189271/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akshara-vootkuri-58a189271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshara-vootkuri-58a189271/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aksharav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aksharav" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/aksharareddy25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aksharareddy25" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akshara-vootkuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshara-vootkuri" height="30" width="40" /></a>
