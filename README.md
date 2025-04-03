@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshara-vootkuri&label=Profile%20views&color=0e75b6&style=flat" alt="akshara-vootkuri" /> </p>
 
-- 👨‍💻 Visit my portfolio at https://aksharav-portfolio.netlify.app/ to learn more about my work.
+- 👨‍💻 Visit my portfolio at (https://aksharav-portfolio.netlify.app/) to learn more about my work
 - 🔭 I’m currently working on **Doctor appointment booking system**
 
 - 🌱 I’m currently learning **frameworks for frontend like react**
